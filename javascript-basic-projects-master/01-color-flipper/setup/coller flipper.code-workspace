@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Vs code/Java Script"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01-color-flipper"
+	}
+}
